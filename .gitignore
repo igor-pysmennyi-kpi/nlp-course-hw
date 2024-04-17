@@ -31,3 +31,6 @@ dist/
 *.swp
 *~
 .DS_Store
+
+#Data
+data/
